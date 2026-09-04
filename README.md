@@ -19,7 +19,7 @@ cyber-physical systems, and multi-agent systems.
 I develop and evaluate machine learning and reinforcement learning methods
 for forecasting, decision-making, control, safety, and system resilience.
 
-Current directions include:
+**Current directions include**:
 
 - Safe and constrained reinforcement learning;
 - AI-based control for electrified and autonomous vehicles;
@@ -148,18 +148,18 @@ P. Y. Chang, **S. G. Bhatti**, N. U. Javed, Q. Ahmed
 
 ## 💻 Research Software
 
-### [Learning-Based-Controls-2025](YOUR_REPOSITORY_LINK)
+### [Learning-Based-Controls-2025](https://github.com/SidraBhatti90/Learning-Based-Controls-2025)
 
 Graduate-level material connecting classical control theory with modern AI/ML and reinforcement learning.
 
 Topics include:
 
-- Lyapunov stability
-- Control Lyapunov Functions
-- Control Barrier Functions
-- Hamilton–Jacobi Reachability
-- Reinforcement Learning
-- Safe Learning-Based Control
+- Feedback control, state-space models, LQR, and stability analysis
+- Optimal control, constrained optimization, and Model Predictive Control (MPC)
+- Machine learning and physics-informed learning for dynamical systems
+- Reinforcement learning, deep RL, and multi-agent systems for control
+- Learning-based MPC, Gaussian processes, uncertainty handling, and safe-set integration
+- Learning-based control, stability analysis, Neural ODEs, GANs, and system identification
 
 ### Physics-Based Radar Emitter Recognition
 
@@ -174,25 +174,25 @@ and learning-enabled systems at The Ohio State University.
 
 ### Teaching
 
-- **Learning-Based Controls** — Spring & Autumn 2025
-- **System Integration & Controls** — Spring 2026
+- **Connected & Automated Vehicles (CAVs)** — Spring 2027
 - **Safe & Secure Autonomous Systems** — Autumn 2026
-- **Connected & Automated Vehicles** — Autumn 2026
+- **System Integration & Controls** — Spring 2026
+- **Learning-Based Controls** — Spring & Autumn 2025
 
-I develop lecture material and hands-on MATLAB/Python tutorials that enable
+I develop lecture material and hands-on MATLAB/Python tutorials, assignmnets that enable
 students to implement learning-based control methods on dynamical systems.
 
 ### Mentoring
 
 I mentor undergraduate and graduate researchers working on topics including:
 
-- safe and physics-guided reinforcement learning;
-- electrified powertrain energy management;
-- transformer-based policies for hybrid vehicles;
+- Safe and Physics-guided reinforcement learning;
+- Electrified powertrain energy management;
+- Transformer-based policies for hybrid vehicles;
 - CAN-bus intrusion detection;
-- cooperative and autonomous driving;
-- generative adversarial attacks on cyber-physical systems;
-- liquid neural-network control.
+- Cooperative and autonomous driving;
+- Generative adversarial attacks on cyber-physical systems;
+- Liquid neural-network control.
 
 ---
 
