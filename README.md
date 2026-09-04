@@ -2,7 +2,7 @@
 
 **Learning-Based Control • Reinforcement Learning • Intelligent Mobility • Cyber-Physical Systems**
 
-I develop **AI/ML methods for decision-making and control in physical systems**, with an emphasis on **safe, efficient, resilient, and deployable intelligent systems**. My current research focuses on **learning-based control, reinforcement learning, connected and automated vehicles, electrified powertrains, and cyber-physical system security**.
+I develop **AI/ML methods for decision-making and control in physical systems**, with an emphasis on safe, efficient, resilient, and deployable intelligent systems. My current research focuses on **learning-based control, reinforcement learning, connected and automated vehicles, electrified powertrains, and cyber-physical system security**.
 
 Earlier work includes transformer-based and physics-guided AI for radar signal and emitter recognition.
 
