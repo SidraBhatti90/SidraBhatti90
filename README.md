@@ -142,7 +142,7 @@ P. Y. Chang, **S. G. Bhatti**, N. U. Javed, Q. Ahmed
 *Department of Electrical Engineering, Capital University of Science and Technology, 2019*
 
 ---
-➡️ **[View complete publication list on Google Scholar]([https://scholar.google.com/citations?hl=en&user=5EFVBRMAAAAJ&view_op=list_works&sortby=pubdate])
+➡️ [**View complete publication list on Google Scholar**](https://scholar.google.com/citations?hl=en&user=5EFVBRMAAAAJ&view_op=list_works&sortby=pubdate)
 
 ---
 
