@@ -135,14 +135,6 @@ P. Y. Chang, **S. G. Bhatti**, N. U. Javed, Q. Ahmed
 
 ---
 
-## 💻 Research Software
-
-### Physics-Based Radar Emitter Recognition
-
-Reproducibility research on physics-guided machine learning for radar emitter recognition.
-
----
-
 ## 🎓 Teaching & Mentoring
 
 I contribute to teaching and course development in control, autonomy, and learning-enabled systems at The Ohio State University.
