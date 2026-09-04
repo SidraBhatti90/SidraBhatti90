@@ -7,18 +7,6 @@ I develop **AI/ML methods for decision-making and control in physical systems**,
 Earlier work includes transformer-based and physics-guided AI for radar signal and emitter recognition.
 
 ---
-
-## 🔬 Research Interests
-
-- Learning-Based and Safe Control
-- Reinforcement Learning for Dynamical Systems
-- Connected and Automated Vehicles
-- Intelligent and Electrified Mobility
-- Cyber-Physical System Security
-- Explainable and Trustworthy AI
-- Optimization and Decision-Making
-
----
 ## 👩‍🔬 Current Position
 
 **Applied Research Associate Engineer**  
@@ -39,6 +27,16 @@ Current directions include:
 - Cooperative decision-making for connected vehicles;
 - Resilient learning for cyber-physical and in-vehicle networks.
 
+---
+## 🔬 Research Interests
+
+- Learning-Based and Safe Control
+- Reinforcement Learning for Dynamical Systems
+- Connected and Automated Vehicles
+- Intelligent and Electrified Mobility
+- Cyber-Physical System Security
+- Explainable and Trustworthy AI
+- Optimization and Decision-Making
 ---
 
 ## 📚 Selected Publications
