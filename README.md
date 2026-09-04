@@ -158,6 +158,15 @@ Reproducibility research on physics-guided machine learning for radar emitter re
 
 I contribute to teaching and course development in control, autonomy, and learning-enabled systems at The Ohio State University.
 
+
+### Teaching
+
+- **Connected & Automated Vehicles (CAVs)** — Spring 2027
+- **Safe & Secure Autonomous Systems** — Autumn 2026
+- **System Integration & Controls** — Spring 2026
+- **Learning-Based Controls** — Spring & Autumn 2025
+
+
 ### [Learning-Based-Controls-2025](https://github.com/SidraBhatti90/Learning-Based-Controls-2025)
 
 Graduate-level course material bridging classical control theory with modern AI/ML and reinforcement learning. I develop lecture material and hands-on MATLAB/Python tutorials, assignmnets that enable students to implement learning-based control methods on dynamical systems.
@@ -170,13 +179,6 @@ Graduate-level course material bridging classical control theory with modern AI/
 - Reinforcement learning, deep RL, and multi-agent systems for control
 - Learning-based MPC, Gaussian processes, uncertainty handling, and safe-set integration
 - Learning-based control, stability analysis, Neural ODEs, GANs, and system identification
-
-### Teaching
-
-- **Connected & Automated Vehicles (CAVs)** — Spring 2027
-- **Safe & Secure Autonomous Systems** — Autumn 2026
-- **System Integration & Controls** — Spring 2026
-- **Learning-Based Controls** — Spring & Autumn 2025
 
 ### Mentoring
 
