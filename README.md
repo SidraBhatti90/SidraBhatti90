@@ -19,7 +19,7 @@ cyber-physical systems, and multi-agent systems.
 I develop and evaluate machine learning and reinforcement learning methods
 for forecasting, decision-making, control, safety, and system resilience.
 
-**Current directions include**:
+**Current research directions include**:
 
 - Safe and constrained reinforcement learning;
 - AI-based control for electrified and autonomous vehicles;
