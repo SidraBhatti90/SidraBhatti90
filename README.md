@@ -19,24 +19,16 @@ cyber-physical systems, and multi-agent systems.
 I develop and evaluate machine learning and reinforcement learning methods
 for forecasting, decision-making, control, safety, and system resilience.
 
-**Current research directions include**:
+**🔬 Current research directions include**:
 
 - Safe and constrained reinforcement learning;
+- Reinforcement Learning for Dynamical Systems;
 - AI-based control for electrified and autonomous vehicles;
 - Energy-efficient and explainable powertrain control;
 - Cooperative decision-making for connected vehicles;
+- Explainable and Trustworthy AI
 - Resilient learning for cyber-physical and in-vehicle networks.
 
----
-## 🔬 Research Interests
-
-- Learning-Based and Safe Control
-- Reinforcement Learning for Dynamical Systems
-- Connected and Automated Vehicles
-- Intelligent and Electrified Mobility
-- Cyber-Physical System Security
-- Explainable and Trustworthy AI
-- Optimization and Decision-Making
 ---
 
 ## 📚 Selected Publications
