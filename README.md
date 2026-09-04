@@ -144,7 +144,7 @@ I contribute to teaching and course development in control, autonomy, and learni
 
 - **Connected & Automated Vehicles (CAVs)** — Spring 2027
 - **Safe & Secure Autonomous Systems** — Autumn 2026
-- **System Integration & Controls** — Spring 2026
+- **System Integration & Controls** — Spring 2026, Spring 2024, Autumn 2024
 - **Learning-Based Controls** — Spring & Autumn 2025
 
 
