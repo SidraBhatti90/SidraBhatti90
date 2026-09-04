@@ -30,9 +30,6 @@ for forecasting, decision-making, control, safety, and system resilience.
 - Resilient learning for cyber-physical and in-vehicle networks.
 
 ---
-
-## 📚 Selected Publications
-
 ## 📚 Publications
 
 ### 2026
