@@ -148,19 +148,6 @@ P. Y. Chang, **S. G. Bhatti**, N. U. Javed, Q. Ahmed
 
 ## 💻 Research Software
 
-### [Learning-Based-Controls-2025](https://github.com/SidraBhatti90/Learning-Based-Controls-2025)
-
-Graduate-level material connecting classical control theory with modern AI/ML and reinforcement learning.
-
-Topics include:
-
-- Feedback control, state-space models, LQR, and stability analysis
-- Optimal control, constrained optimization, and Model Predictive Control (MPC)
-- Machine learning and physics-informed learning for dynamical systems
-- Reinforcement learning, deep RL, and multi-agent systems for control
-- Learning-based MPC, Gaussian processes, uncertainty handling, and safe-set integration
-- Learning-based control, stability analysis, Neural ODEs, GANs, and system identification
-
 ### Physics-Based Radar Emitter Recognition
 
 Reproducibility research on physics-guided machine learning for radar emitter recognition.
@@ -169,8 +156,20 @@ Reproducibility research on physics-guided machine learning for radar emitter re
 
 ## 🎓 Teaching & Mentoring
 
-I contribute to teaching and course development in control, autonomy,
-and learning-enabled systems at The Ohio State University.
+I contribute to teaching and course development in control, autonomy, and learning-enabled systems at The Ohio State University.
+
+### [Learning-Based-Controls-2025](https://github.com/SidraBhatti90/Learning-Based-Controls-2025)
+
+Graduate-level course material bridging classical control theory with modern AI/ML and reinforcement learning. I develop lecture material and hands-on MATLAB/Python tutorials, assignmnets that enable students to implement learning-based control methods on dynamical systems.
+
+**Topics include:**
+
+- Feedback control, state-space models, LQR, and stability analysis
+- Optimal control, constrained optimization, and Model Predictive Control (MPC)
+- Machine learning and physics-informed learning for dynamical systems
+- Reinforcement learning, deep RL, and multi-agent systems for control
+- Learning-based MPC, Gaussian processes, uncertainty handling, and safe-set integration
+- Learning-based control, stability analysis, Neural ODEs, GANs, and system identification
 
 ### Teaching
 
@@ -178,9 +177,6 @@ and learning-enabled systems at The Ohio State University.
 - **Safe & Secure Autonomous Systems** — Autumn 2026
 - **System Integration & Controls** — Spring 2026
 - **Learning-Based Controls** — Spring & Autumn 2025
-
-I develop lecture material and hands-on MATLAB/Python tutorials, assignmnets that enable
-students to implement learning-based control methods on dynamical systems.
 
 ### Mentoring
 
