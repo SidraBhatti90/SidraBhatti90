@@ -19,10 +19,17 @@ Earlier work includes transformer-based and physics-guided AI for radar signal a
 - Optimization and Decision-Making
 
 ---
+## 👩‍🔬 Current Position
 
-## 🚀 Current Research
+**Applied Research Associate Engineer**  
+Center for Automotive Research (CAR), The Ohio State University
 
-My research investigates how learning-based methods can be integrated with control and dynamical-system principles to develop **safe, efficient, and reliable intelligent systems**.
+My work focuses on learning-enabled control and AI for complex dynamical
+systems, including autonomous and connected vehicles, electrified powertrains,
+cyber-physical systems, and multi-agent systems.
+
+I develop and evaluate machine learning and reinforcement learning methods
+for forecasting, decision-making, control, safety, and system resilience.
 
 Current directions include:
 
@@ -164,9 +171,30 @@ Reproducibility research on physics-guided machine learning for radar emitter re
 
 ## 🎓 Teaching & Mentoring
 
-I am interested in teaching and mentoring students at the intersection of **control systems, artificial intelligence, autonomy, and mechanical systems**.
+I contribute to teaching and course development in control, autonomy,
+and learning-enabled systems at The Ohio State University.
 
-My teaching emphasizes mathematical foundations, computational implementation, reproducibility, and application to realistic dynamical systems.
+### Teaching
+
+- **Learning-Based Controls** — Spring & Autumn 2025
+- **System Integration & Controls** — Spring 2026
+- **Safe & Secure Autonomous Systems** — Autumn 2026
+- **Connected & Automated Vehicles** — Autumn 2026
+
+I develop lecture material and hands-on MATLAB/Python tutorials that enable
+students to implement learning-based control methods on dynamical systems.
+
+### Mentoring
+
+I mentor undergraduate and graduate researchers working on topics including:
+
+- safe and physics-guided reinforcement learning;
+- electrified powertrain energy management;
+- transformer-based policies for hybrid vehicles;
+- CAN-bus intrusion detection;
+- cooperative and autonomous driving;
+- generative adversarial attacks on cyber-physical systems;
+- liquid neural-network control.
 
 ---
 
@@ -180,6 +208,6 @@ I am interested in interdisciplinary collaborations involving:
 
 ## 🔗 Academic Profiles
 
-- 🎓 [Google Scholar](YOUR_GOOGLE_SCHOLAR_LINK)
-- 🧑‍🔬 [ORCID](YOUR_ORCID_LINK)
-- 💼 [LinkedIn](YOUR_LINKEDIN_LINK)
+- 🎓 [Google Scholar]([YOUR_GOOGLE_SCHOLAR_LINK](https://scholar.google.com/citations?hl=en&user=5EFVBRMAAAAJ&view_op=list_works&sortby=pubdate))
+- 🧑‍🔬 [ORCID](https://orcid.org/my-orcid?orcid=0000-0003-4094-5984)
+- 💼 [LinkedIn]([YOUR_LINKEDIN_LINK](https://www.linkedin.com/in/sidra-bhatti-10045b248/))
