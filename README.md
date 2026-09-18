@@ -188,4 +188,4 @@ I am interested in interdisciplinary collaborations involving:
 - 🎓 [Google Scholar](https://scholar.google.com/citations?hl=en&user=5EFVBRMAAAAJ&view_op=list_works&sortby=pubdate)
 - 🧑‍🔬 [ORCID](https://orcid.org/my-orcid?orcid=0000-0003-4094-5984)
 - 💼 [LinkedIn](https://www.linkedin.com/in/sidra-bhatti-10045b248/)
-- - 💼 [HuggingFace](https://huggingface.co/SidraBhatti)
+- 💼 [HuggingFace](https://huggingface.co/SidraBhatti)
